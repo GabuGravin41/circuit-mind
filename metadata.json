@@ -1,0 +1,5 @@
+{
+  "name": "CircuitMind: AI Schematic Architect",
+  "description": "An AI-powered schematic design tool. It searches for circuit architectures and autonomously draws component placement and wiring traces.",
+  "requestFramePermissions": []
+}
